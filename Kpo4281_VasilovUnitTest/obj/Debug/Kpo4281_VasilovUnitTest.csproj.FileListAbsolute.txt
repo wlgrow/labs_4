@@ -1,0 +1,18 @@
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_VasilovUnitTest\bin\Debug\Kpo4281_VasilovUnitTest.dll
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_VasilovUnitTest\bin\Debug\Kpo4281_VasilovUnitTest.pdb
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_VasilovUnitTest\bin\Debug\Kpo4281_Vasilov.Lib.dll
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_VasilovUnitTest\bin\Debug\Kpo4281_Vasilov.Lib.pdb
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_VasilovUnitTest\obj\Debug\Kpo4281_VasilovUnitTest.csprojResolveAssemblyReference.cache
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_VasilovUnitTest\obj\Debug\Kpo4281_VasilovUnitTest.dll
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_VasilovUnitTest\obj\Debug\Kpo4281_VasilovUnitTest.pdb
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_VasilovUnitTest\bin\Debug\Kpo4281_Vasilov.Main.exe
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_VasilovUnitTest\bin\Debug\Kpo4281_Vasilov.Main.pdb
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 4 лаба\Kpo4281_VasilovUnitTest\bin\Debug\Kpo4281_VasilovUnitTest.dll
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 4 лаба\Kpo4281_VasilovUnitTest\bin\Debug\Kpo4281_VasilovUnitTest.pdb
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 4 лаба\Kpo4281_VasilovUnitTest\bin\Debug\Kpo4281_Vasilov.Lib.dll
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 4 лаба\Kpo4281_VasilovUnitTest\bin\Debug\Kpo4281_Vasilov.Main.exe
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 4 лаба\Kpo4281_VasilovUnitTest\bin\Debug\Kpo4281_Vasilov.Lib.pdb
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 4 лаба\Kpo4281_VasilovUnitTest\bin\Debug\Kpo4281_Vasilov.Main.pdb
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 4 лаба\Kpo4281_VasilovUnitTest\obj\Debug\Kpo4281_VasilovUnitTest.csprojResolveAssemblyReference.cache
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 4 лаба\Kpo4281_VasilovUnitTest\obj\Debug\Kpo4281_VasilovUnitTest.dll
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 4 лаба\Kpo4281_VasilovUnitTest\obj\Debug\Kpo4281_VasilovUnitTest.pdb
